@@ -4,7 +4,7 @@ A fork of Chat GPT "DAN" (and other "Jailbreaks") by coolaj86, visit the origina
 
 ## Note
 
-These prompts have been slightly modified to fit BAIChat. But further tweaks are recommended.
+These prompts have been slightly modified to fit BAIChat. But further tweaks are recommended. BAI Chat may not response similar to ChatGPT.
 
 ## "Jailbreak" Prompts
 
